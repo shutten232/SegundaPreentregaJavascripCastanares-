@@ -15,7 +15,7 @@ peso = parseFloat(peso);
 let tiempoTotal = distancia * ritmo;
 
 //calcular el gasto calorico
-//  1.036 calorías por kilómetro por cada kilo de peso corporal.
+//  1.036 caloras por kilometro por cada kilo de peso corporal.
 let caloriasQuemadas = distancia * peso * 1.036;
 
 //mostrar los resultados al usuario
